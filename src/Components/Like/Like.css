@@ -1,0 +1,19 @@
+.like-box {
+    position: absolute;
+    right: 2rem;
+    top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 8px;
+    padding: 0.4rem 1rem;
+}
+
+.like-box img {
+    width: 35px;
+    height: 35px;
+    margin-left: 1rem;
+}
